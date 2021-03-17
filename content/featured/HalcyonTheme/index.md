@@ -1,7 +1,7 @@
 ---
 date: '1'
 title: 'Halcyon Theme'
-cover: './halcyon.png'
+cover: './PetrolPump.png'
 github: 'https://github.com/kush960/Petrol_Pump_Management_System'
 
 tech:
