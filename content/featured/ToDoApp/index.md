@@ -3,7 +3,7 @@ date: '2'
 title: 'To Do App'
 cover: './To-DoApp_Laravel.png'
 github: 'https://github.com/kush960/todoproject'
-external: 'https://spotify-profile.herokuapp.com/'
+
 tech:
   - Laravel
   - MySQL

@@ -2,14 +2,11 @@
 date: '1'
 title: 'Halcyon Theme'
 cover: './halcyon.png'
-github: 'https://github.com/bchiang7/halcyon-site'
-external: 'https://halcyon-theme.netlify.com/'
+github: 'https://github.com/kush960/Petrol_Pump_Management_System'
+
 tech:
-  - VS Code
-  - Sublime Text
-  - Atom
-  - iTerm2
-  - Hyper
+  - Php
+  - MySQL
 showInProjects: true
 ---
 
