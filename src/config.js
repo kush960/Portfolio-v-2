@@ -1,19 +1,16 @@
 module.exports = {
-  email: 'brittany.chiang@gmail.com',
+  email: 'kushagraankit05@gmail.com',
 
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/bchiang7',
+      url: 'https://github.com/kush960',
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/bchiang7',
+      url: 'https://www.instagram.com/kushagra_ankit/',
     },
-    {
-      name: 'Twitter',
-      url: 'https://twitter.com/bchiang7',
-    },
+  
     {
       name: 'Linkedin',
       url: 'https://www.linkedin.com/in/bchiang7',
