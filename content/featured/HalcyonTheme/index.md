@@ -1,6 +1,6 @@
 ---
 date: '1'
-title: 'Halcyon Theme'
+title: 'Petrol Pump Management System'
 cover: './PetrolPump.png'
 github: 'https://github.com/kush960/Petrol_Pump_Management_System'
 
@@ -10,4 +10,4 @@ tech:
 showInProjects: true
 ---
 
-A minimal, dark blue theme for VS Code, Sublime Text, Atom, iTerm, and more. Available on [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode), [Package Control](https://packagecontrol.io/packages/Halcyon%20Theme), [Atom Package Manager](https://atom.io/themes/halcyon-syntax), and [npm](https://www.npmjs.com/package/hyper-halcyon-theme).
+It is an web application that was built with the Php for my web development class. This webpage has been created to get an overview that how a management for the petrolpump works. 

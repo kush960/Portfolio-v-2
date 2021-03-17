@@ -10,5 +10,5 @@ tech:
 showInProjects: true
 ---
 
-It is a e-commerce application that was built with the Php for my web development class. This webpage has been created to get an overview that how an e-commerce page works .<br/>
+It is a e-commerce application that was built with the Php for my web development class. This webpage has been created to get an overview that how an e-commerce page works.<br/>
 This web app is a small example of how a e-commerce page could be like.
