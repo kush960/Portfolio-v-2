@@ -7,7 +7,7 @@ module.exports = {
       'Kushagra Ankit is a software engineer specializing in building (and occasionally designing) exceptional websites, applications, and everything in between.',
     siteUrl: 'https://brittanychiang.com', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
-    
+    twitterUsername: '@ankit_kushagra',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -19,8 +19,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'Kushagra Ankit',
-        short_name: 'BrittanyChiang',
+        name: 'KushagraAnkit',
+        short_name: 'KushagraAnkit',
         start_url: '/',
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,
