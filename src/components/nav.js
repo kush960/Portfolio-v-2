@@ -65,8 +65,8 @@ const StyledNav = styled.nav`
 
     a {
       color: var(--green);
-      width: 42px;
-      height: 42px;
+      width: 0px;
+      height: 0px;
 
       &:hover,
       &:focus {
@@ -76,7 +76,7 @@ const StyledNav = styled.nav`
       }
 
       svg {
-        fill: none;
+        fill: K;
         transition: var(--transition);
         user-select: none;
       }
