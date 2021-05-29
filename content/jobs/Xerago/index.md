@@ -3,7 +3,7 @@ date: '2021-01-11'
 title: 'Engineer'
 company: 'Xerago'
 location: 'Mumbai, Indai'
-range: 'May 2021 - Present'
+range: 'January 2021 - Present'
 url: 'https://www.xerago.com/'
 ---
 
